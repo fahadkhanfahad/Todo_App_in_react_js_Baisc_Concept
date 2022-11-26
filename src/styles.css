@@ -1,0 +1,25 @@
+.mainheading {
+  text-align: center;
+  align-self: center;
+}
+.heading {
+  align-content: center;
+  background-color: white;
+  font-family: sans-serif;
+  width: 400px;
+  height: 400px;
+  align-content: center;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+.markbutton {
+  background-color: silver;
+  width: 5px;
+  height: 5px;
+}
+.markbutton:hover {
+  background-color: red;
+}
